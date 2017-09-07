@@ -1,0 +1,47 @@
+body, html {
+    height: 100%;
+}
+
+body
+{
+  background: url('https://www.wrnsstudio.com/system/photo/1203/07017_01_N108.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tint
+{
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    overflow: auto;
+    top: 0px;
+    left: 0px;
+    background: rgba(196, 38, 59,0.8);
+}
+article .title
+{
+  text-align: center;
+}
+
+.box
+{
+  padding: 25% 0 25% 0;
+  background:
+}
+
+#homeTiles
+{
+  padding-left: calc(100%/6);
+  margin-top: 5%;
+}
+
+.hero-body
+{
+  background-color: rgb(235, 231, 226);
+  padding-bottom: 2%;
+  border-bottom: 5px solid #C4263B;
+  padding-top: 1%;
+}
